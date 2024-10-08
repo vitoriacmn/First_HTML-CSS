@@ -1,2 +1,2 @@
-# portifolio-one
-My first test with HTML and CSS
+# study
+Primeiro estudo com HTML e CSS.
